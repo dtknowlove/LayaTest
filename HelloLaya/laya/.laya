@@ -1,4 +1,4 @@
-<project version="0.9.9">
+<project version="0.9.8">
    <asynRes>img,temp,sound</asynRes>
    <unDealRes>embed</unDealRes>
    <resTypes>png,jpg</resTypes>
@@ -13,7 +13,7 @@ var Dialog=laya.ui.Dialog;]]></codeImportsJS>
    <boxTypes>Box,List,Tab,RadioGroup,ViewStack,Panel,HBox,VBox,Tree,Sprite</boxTypes>
    <pageTypes>View,Dialog</pageTypes>
    <shareResPath/>
-   <codeType>2</codeType>
+   <codeType>1</codeType>
    <resCanCompress/>
    <resPublishQuality>80</resPublishQuality>
    <langPath/>

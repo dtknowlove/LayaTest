@@ -1,7 +1,6 @@
 {
 	"version": "0.2.0",
 	"configurations": [ 
-		
 		{
 			"name": "layaAir",
 			"type": "chrome",
@@ -25,8 +24,8 @@
 			"runtimeExecutable": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
 			"runtimeArgs": [
 				"--allow-file-access-from-files",
-				"--allow-file-access-frome-files"
-				// " --disable-web-security"
+				"--allow-file-access-frome-files",
+				" --disable-web-security"
 			],
 			"sourceMaps": true,
 			"webRoot": "${workspaceRoot}",
